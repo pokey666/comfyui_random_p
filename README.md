@@ -14,7 +14,7 @@ ComfyUI自定义节点，提供动态提示词组合功能。
 - Fixed seeds can be set to ensure reproducible results
 
 ## Installation Method 安装方法
-1. Copy the custom_prompt_node.py file to the custom_nodes directory of ComfyUI；将 `custom_prompt_node.py` 复制到 ComfyUI 的 `custom_nodes` 目录
+1. Copy the comfyui_random_p.py file to the custom_nodes directory of ComfyUI；将 `comfyui_random_p.py` 复制到 ComfyUI 的 `custom_nodes` 目录
 2. Restart the ComfyUI service；重启 ComfyUI 服务
 
 ## Usage Example 使用示例
